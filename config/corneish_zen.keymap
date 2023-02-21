@@ -24,7 +24,7 @@
    &kp TAB   &kp X &kp C &kp L &kp F &kp V   &kp SQT   &kp SEMI  &kp U &kp P &kp Q &kp DEL
    &kp HOME  &kp R &kp S &kp N &kp T &kp G   &kp DOT   &kp A     &kp E &kp H &kp I &kp END
    &kp LCTRL &kp Z &kp W &kp M &kp D &kp B   &kp COMMA &kp O     &kp Y &kp K &kp J &kp RWIN
-               &kp LALT &kp LSHFT &kp BSPC   &kp ENTER &kp SPACW &kp RCTRL
+               &kp LALT &kp LSHFT &kp BSPC   &kp ENTER &kp SPACE &kp RCTRL
                         >;
                 };
                 lower_layer {
