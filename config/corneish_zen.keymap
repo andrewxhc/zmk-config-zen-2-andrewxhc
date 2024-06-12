@@ -30,7 +30,7 @@
 // | SHFT |  Z  |  X  |  C  |  V  |  B  |   |  N  |  M   |  ,  |  .  |  /  | ESC  |
 //                    | GUI | LWR | SPC |   | ENT | RSE  | ALT |
                         bindings = <
-   &kp td0   &kp X &kp C &kp L &kp F &kp V   &kp SQT   &kp SEMI  &kp U &kp P &kp Q &mo 3
+   &td0   &kp X &kp C &kp L &kp F &kp V   &kp SQT   &kp SEMI  &kp U &kp P &kp Q &mo 3
    &kp HOME  &kp R &kp S &kp N &kp T &kp G   &kp DOT   &kp A     &kp E &kp H &kp I &kp END
    &kp LCTRL &kp Z &kp W &kp M &kp D &kp B   &kp COMMA &kp O     &kp Y &kp K &kp J &kp RWIN     
                   &mo 2 &kp LSHFT &kp BSPC   &kp ENTER &kp SPACE &mo 1
