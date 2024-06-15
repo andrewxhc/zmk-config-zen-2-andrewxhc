@@ -88,9 +88,10 @@
             #binding-cells = <0>;
             bindings
                 = <&macro_press &kp LSHFT>
-                , <&macro_tap &kp Z &kp M &kp K>
+                , <&macro_tap &kp Z &kp M &kp K &kp O>
                 , <&macro_release &kp LSHFT>
                 ;
         };
     };
 };
+
